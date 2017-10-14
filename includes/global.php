@@ -1,0 +1,3 @@
+<?php
+define(TOKEN, "YOUR)TOKEN_VALUE_PLACE_HERE");
+?>
